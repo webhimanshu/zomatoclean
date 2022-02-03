@@ -1,0 +1,52 @@
+[
+    {
+        "image":"/ImageSliding/brands1.avif",
+        "title":"Lion Grill",
+        "time":22
+        },
+        {
+            "image":"/ImageSliding/brands2.avif",
+            "title":"Empire Restaurent",
+            "time":29
+            },
+            {
+                "image":"/ImageSliding/brands3.avif",
+                "title":"A2B - Adyar Ananda Bhavan",
+                "time":27
+                },
+                {
+                    "image":"/ImageSliding/brands4.avif",
+                    "title":"FreshMenu",
+                    "time":30
+                    },
+                    {
+                        "image":"/ImageSliding/brands5.avif",
+                        "title":"Burger King",
+                        "time":39
+                        },
+                        {
+                            "image":"/ImageSliding/brands6.avif",
+                            "title":"Chai Point",
+                            "time":33
+                            },
+                            {
+                                "image":"/ImageSliding/brands7.avif",
+                                "title":"Mani's Dum Biryani",
+                                "time":45
+                                },
+                                {
+                                    "image":"/ImageSliding/brands8.avif",
+                                    "title":"WOW! Momo",
+                                    "time":34
+                                    },
+                                    {
+                                        "image":"/ImageSliding/brands9.avif",
+                                        "title":"Mani's Dum Biryani",
+                                        "time":45
+                                        },
+                                        {
+                                            "image":"/ImageSliding/brands11.webp",
+                                            "title":"EatFit",
+                                            "time":34
+                                            }
+]

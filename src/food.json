@@ -1,0 +1,214 @@
+[
+    {
+  
+        "id": 1,
+        "restaurent": "Leon Grill",
+        "rating":4.3,
+        "title":"Burger,Wraps,Fast Food",
+        "price":200,
+        "time":30,
+        "image":"/foodImage/food1.avif"
+         
+
+      },
+      {
+  
+        "id": 2,
+        "restaurent": "Abhiruchi Hotel",
+        "rating":3.6,
+        "title":"North Indian,Seafood,Biryani",
+        "price":200,
+        "time":51,
+        "image":"/foodImage/food2.avif"
+      },
+      {
+  
+        "id": 3,
+        "restaurent": "Corner House Ice Creams",
+        "rating":4.5,
+        "title":"Desert,Ice Cream ",
+        "price":200,
+        "time":35,
+        "image":"/foodImage/food3.webp"
+      },
+      {
+        "id": 4,
+        "restaurent": "Awesome Foods",
+        "rating":3.9,
+        "title":"South Indian,Biryani",
+        "price":200,
+        "time":38,
+        "image":"/foodImage/food4.avif"
+      },
+      {
+  
+        "id": 5,
+        "restaurent": "Meghana Foods",
+        "rating":4.4,
+        "title":"Biryani,Andra,North Indian",
+        "price":200,
+        "time":30,
+        "image":"/foodImage/food5.avif"
+         
+
+      },
+      {
+  
+        "id": 6,
+        "restaurent": "Thalassery Restaurent",
+        "rating":4.0,
+        "title":"Kerala,North Indian ",
+        "price":200,
+        "time":46,
+        "image":"/foodImage/food6.avif"
+      },
+      {
+  
+        "id": 7,
+        "restaurent": "Beijing Bites",
+        "rating":3.9,
+        "title":"Chinese,Thai,Seafood",
+        "price":200,
+        "time":35,
+        "image":"/foodImage/food6.webp"
+      },
+      {
+        "id": 8,
+        "restaurent": "Smoking Burg",
+        "rating":4.0,
+        "title":"Burger,Pizza,Fast Food",
+        "price":200,
+        "time":38,
+        "image":"/foodImage/food7.avif"
+      },
+      {
+  
+        "id": 9,
+        "restaurent": "Theobroma",
+        "rating":4.3,
+        "title":"Bakery,Desert,Fast Food",
+        "price":150,
+        "time":22,
+        "image":"/foodImage/food8.avif"
+      },
+      {
+        "id": 10,
+        "restaurent": "Callifornia Burrito",
+        "rating":4.2,
+        "title":"Mexican ,Fast Food",
+        "price":150,
+        "time":38,
+        "image":"/foodImage/food9.avif"
+      },
+      {
+  
+        "id": 11,
+        "restaurent": "Chai Point",
+        "rating":4.3,
+        "title":"Tea,Fast Food",
+        "price":150,
+        "time":30,
+        "image":"/foodImage/food10.avif"
+         
+
+      },
+      {
+  
+        "id": 12,
+        "restaurent": "MC Donald,s",
+        "rating":3.6,
+        "title":"Burger,Fast Food ",
+        "price":150,
+        "time":32,
+        "image":"/foodImage/food11.avif"
+      },
+      {
+  
+        "id": 13,
+        "restaurent": "Burger  Seigneur",
+        "rating":4.1,
+        "title":"Desert,Ice Cream ",
+        "price":150,
+        "time":33,
+        "image":"/foodImage/food12.avif"
+      },
+      {
+        "id": 14,
+        "restaurent": "Kabab Corner ",
+        "rating":4.3,
+        "title":"North  Indian,Chinese",
+        "price":150,
+        "time":31,
+        "image":"/foodImage/food13.avif"
+      },
+      {
+  
+        "id": 15,
+        "restaurent": "Hotel Fanoos",
+        "rating":4.0,
+        "title":" Rolls ,Biryani,Fast Food",
+        "price":150,
+        "time":30,
+        "image":"/foodImage/food14.avif"
+         
+
+      },
+      {
+  
+        "id": 16,
+        "restaurent": "Yauatch ",
+        "rating":4.2,
+        "title":"Chinese,Asian ,Seafood",
+        "price":150,
+        "time":57,
+        "image":"/foodImage/food15.avif"
+      },
+      {
+  
+        "id": 17,
+        "restaurent": "Empire Restaurent",
+        "rating":4.0,
+        "title":"North Indian ,Biryani",
+        "price":150,
+        "time":36,
+        "image":"/foodImage/food16.avif"
+      },
+      {
+        "id": 18,
+        "restaurent": "Magnolia Bakery",
+        "rating":4.4,
+        "title":"Bakery Desert",
+        "price":150,
+        "time":44,
+        "image":"/foodImage/food17.avif"
+      },
+      {
+  
+        "id": 19,
+        "restaurent": "Imperial Restaurent ",
+        "rating":3.9,
+        "title":"Mughalai,North Indian,Biryani",
+        "price":150,
+        "time":34,
+        "image":"/foodImage/food18.avif"
+      },
+      {
+        "id": 20,
+        "restaurent": "Toscano",
+        "rating":4.0,
+        "title":"Italian ,Pizza,Salad",
+        "price":150,
+        "time":36,
+        "image":"/foodImage/food20.avif"
+      },
+      {
+        "id": 21,
+        "restaurent": "Hungry Head",
+        "rating":3.0,
+        "title":"Maggy,Pizza,Salad",
+        "price":150,
+        "time":23,
+        "image":"/foodImage/food13.avif"
+      }
+   
+]
