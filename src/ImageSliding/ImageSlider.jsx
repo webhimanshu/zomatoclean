@@ -48,7 +48,7 @@ const settings = {
 return (
 <div className="w-full   bg-footer-bg-color flex justify-center">
 <div className=" w-4/5 pb-4">
-<h1 className='text-3xl text-text-meal font-normal my-4 '>Eat what makes you happy</h1>
+<h1 className=' text-2xl lg:text-3xl text-text-meal  font-medium  lg:font-normal my-4 '>Eat what makes you happy</h1>
 
 
 
